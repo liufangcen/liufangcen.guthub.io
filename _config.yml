@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Fangcen Liu (刘芳岑)"
   avatar           : "profile.jpg"
-  bio              : "Ph.D student @CQUPT"
+  bio              : "Ph.D student (First year) @CQUPT"
   location         : "Chongqing"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=1q02xOYAAAAJ&hl=zh-CN"
-  email            : "lipengchengme@163.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=66KRsucAAAAJ&hl=zh-CN"
+  email            : "835622020@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "li-pengcheng"
+  github           : "liufangcen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-0691-7966"
+  orcid            : #"https://orcid.org/0000-0002-0691-7966"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

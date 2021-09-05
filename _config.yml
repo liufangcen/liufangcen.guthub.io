@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Pengcheng Li's Homepage"
+title                    : "Welcome to Fangcen Liu's Homepage"
 title_separator          : "-"
-name                     : &name "Pengcheng Li"
+name                     : &name "Fangcen Liu"
 description              : &description "Ph.D student @CQUPT"
-url                      : https://li-pengcheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liufangcen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "li-pengcheng/li-pengcheng.github.io"
+repository               : "liufangcen/liufangcen.github.io"
 teaser                   : 500x300.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pengcheng Li (李鹏程)"
+  name             : "Fangcen Liu (刘芳岑)"
   avatar           : "profile.jpg"
   bio              : "Ph.D student @CQUPT"
   location         : "Chongqing"

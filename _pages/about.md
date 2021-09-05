@@ -16,7 +16,7 @@ Greeting! My name is Fangcen Liu (刘芳岑). I received my Master degree from C
 <ul>
 <li><p><font color="red">To be continue...</font></p>
 </li>
-<li><p>[10/2020] One paper "Infrared and Visible Cross-Modal Image Retrieval through Shared Features" was accepted at <b>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</b>.</p>
+<li><p>[01/2021] One paper "Infrared and Visible Cross-Modal Image Retrieval through Shared Features" was accepted at <b>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</b>.</p>
 </li>
 </ul>
 <h2>Research Interests</h2>

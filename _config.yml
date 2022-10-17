@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Fangcen Liu (刘芳岑)"
   avatar           : "profile.jpg"
-  bio              : "Ph.D student (First year) @CQUPT"
+  bio              : "Ph.D student@CQUPT"
   location         : "Chongqing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=66KRsucAAAAJ&hl=zh-CN"
-  email            : "835622020@qq.com"
+  email            : "liufc67@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
